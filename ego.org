@@ -1,8 +1,7 @@
 
 [[elisp:(ego-base-gknows-open "TodoList")][待办列表]] | [[elisp:(ego-base-gknows-open "习惯记录")][习惯记录]] | [[elisp:(ego-base-gknows-open "困惑与方法")][困惑与方法]] | [[elisp:(ego-base1o补完计划")][EGO补完计划]] | [[elisp:(ego-base-gknows-open "积分奖励制")][积分奖励]]
 
-* 当前积分: 5
-* 08:20 晨间日记: 定时、音乐
+* 当前积分: 12
 * 22:00 洗漱准备睡觉
 * 22:30 关灯睡觉
 
@@ -14,3 +13,8 @@
 | 第二定律(渴求) | 让它有吸引力   | 使其缺乏吸引力 |
 | 第三定律(反应) | 让它简便易行   | 使其难以施行   |
 | 第四定律(奖励) | 让它令人愉悦   | 使其令人厌烦   |
+
+机器永远是对的，没有测试过的代码永远是错的！ —— JYY
+
+抛开 workload 谈优化，就是耍流氓
+Premature optimization is the root of all evil. —— D. E. Knuth
